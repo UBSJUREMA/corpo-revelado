@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Corpo Revelado - Agente de Prompts Virais",
+  "description": "Agente especialista na geração de prompts sequenciais de 40s (5 prompts de 8s) ultra-realistas para a página Corpo Revelado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
